@@ -24,4 +24,5 @@ Output: [4,5,6]
 **Constraints:**
 
 The number of nodes in the list is in the range [1, 100].
+
 1 <= Node.val <= 100
