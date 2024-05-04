@@ -8,7 +8,7 @@ Return the head of the modified linked list.
 
  
 ### Example 1:
-![Uploading ex1-1.png…]()
+![](https://assets.leetcode.com/uploads/2022/02/02/ex1-1.png)
 
 ```
 Input: head = [0,3,1,0,4,5,2,0]
@@ -21,7 +21,8 @@ The above figure represents the given linked list. The modified list contains
 
 
 ### Example 2:
-![Uploading ex2-1.png…]()
+![](https://assets.leetcode.com/uploads/2022/02/02/ex2-1.png)
+
 
 ```
 Input: head = [0,1,0,3,0,2,2,0]
@@ -37,6 +38,9 @@ The above figure represents the given linked list. The modified list contains
 **Constraints:**
 
 The number of nodes in the list is in the range [3, 2 * 105].
+
 0 <= Node.val <= 1000
+
 There are no two consecutive nodes with Node.val == 0.
+
 The beginning and end of the linked list have Node.val == 0.
