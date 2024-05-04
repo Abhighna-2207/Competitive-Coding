@@ -19,11 +19,10 @@ A substring is a contiguous sequence of characters in a string.
  
 
 ### Example 1:
-
+```
 Input: num = 240, k = 2
-
 Output: 2
-
+```
 **Explanation**: The following are the substrings of num of length k:
 
 - "24" from "240": 24 is a divisor of 240.
@@ -33,11 +32,10 @@ Output: 2
 Therefore, the k-beauty is 2.
 
 ### Example 2:
-
+```
 Input: num = 430043, k = 2
-
 Output: 2
-
+```
 **Explanation**: The following are the substrings of num of length k:
 
 - "43" from "430043": 43 is a divisor of 430043.
